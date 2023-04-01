@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there<br>🧠 I’m a Full Stack NodeJS Developer from Kyiv<br>✅ I do everything quickly and qualitatively<br>🧑‍💻 I’m working Full Stack NodeJS for about a year<br>📕 In this period of time I’m developing a website https://textquests.com/<br>🌱 I’m in process of learning Docker 🐳, Angular 📐 and MySQL 🐬
+👋 Hi there<br>🧠 I’m a Full Stack NodeJS Developer from Kyiv<br>✅ I do everything quickly and qualitatively<br>🧑‍💻 I’m working Full Stack NodeJS for about a year<br>📕 In this period of time I’m developing a website https://textquests.com/<br>🌱 I’m in process of learning Docker, Angular and MySQL
 
 
 ## 🌐 Socials:
